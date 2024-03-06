@@ -19,6 +19,7 @@
 
 ### Step 1
 
+red3
 - Cut the vanilla bean. Slice the vanilla bean in half lengthwise. Toast on stovetop in a preheated skillet over medium heat for 3 minutes. If using vanilla extract, wait to add until the end of Step 03.
 
 ### Step 2
