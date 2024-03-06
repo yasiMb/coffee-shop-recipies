@@ -12,6 +12,8 @@ check rule in main
 check rule in main
 check rule in main
 ## Description: Standard caffé latte
+## Description: Standard caffé latte
+## Description: Standard caffé latte
 
 ## Ingredients
 
